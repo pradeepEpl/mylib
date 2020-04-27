@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "19745236817",
+    "firebase_url": "https://lib-notification.firebaseio.com",
+    "project_id": "lib-notification",
+    "storage_bucket": "lib-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19745236817:android:51d522dc16fb8043281570",
+        "android_client_info": {
+          "package_name": "com.ps.libpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19745236817-nscadcsveo9bs0nnlje4dtj0lepo16cj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ps.libpro",
+            "certificate_hash": "cf35f405d4b45d888de9e35ea149270e26c988d0"
+          }
+        },
+        {
+          "client_id": "19745236817-1d3tqfor3lkq7ppu4rn6p740ig5qjr78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLIcr0nxg3NuBiMRRND0vQ_4n4f-t1VS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19745236817-1d3tqfor3lkq7ppu4rn6p740ig5qjr78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
