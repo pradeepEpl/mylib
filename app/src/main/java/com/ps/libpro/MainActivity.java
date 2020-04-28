@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Button button = findViewById(R.id.button_lib);
+        /*Button button = findViewById(R.id.button_lib);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -34,10 +34,10 @@ public class MainActivity extends AppCompatActivity {
                 //Toast.makeText(MainActivity.this, t, Toast.LENGTH_SHORT).show();
                 getToken();
             }
-        });
+        });*/
     }
 
-    public String getToken() {
+    /*public String getToken() {
 
         FirebaseInstanceId.getInstance().getInstanceId().addOnCompleteListener(new OnCompleteListener<InstanceIdResult>() {
             @Override
@@ -54,5 +54,5 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         return token;
-    }
+    }*/
 }
